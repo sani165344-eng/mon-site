@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Mon Site - GNN SANI SAIDOU</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #222;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        nav {
+            background-color: #444;
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav a {
+            color: white;
+            margin: 10px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        nav a:hover {
+            color: yellow;
+        }
+
+        section {
+            padding: 20px;
+        }
+
+        .box {
+            background: white;
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 8px;
+        }
+
+        footer {
+            background-color: #222;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>GNN SANI SAIDOU</h1>
+    <p>Maintenance Informatique et Électronique</p>
+</header>
+
+<nav>
+    <a href="#accueil">Accueil</a>
+    <a href="#services">Services</a>
+    <a href="#competences">Compétences</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<section id="accueil">
+    <div class="box">
+        <h2>Bienvenue</h2>
+        <p>Je suis technicien en maintenance informatique et électronique. Je propose des services de réparation et assistance.</p>
+    </div>
+</section>
+
+<section id="services">
+    <div class="box">
+        <h2>Mes Services</h2>
+        <ul>
+            <li>Réparation d’ordinateurs</li>
+            <li>Installation de logiciels</li>
+            <li>Maintenance électronique</li>
+            <li>Configuration réseau</li>
+        </ul>
+    </div>
+</section>
+
+<section id="competences">
+    <div class="box">
+        <h2>Compétences</h2>
+        <ul>
+            <li>HTML / CSS</li>
+            <li>Maintenance PC</li>
+            <li>Réseaux informatiques</li>
+            <li>Électronique de base</li>
+        </ul>
+    </div>
+</section>
+
+<section id="contact">
+    <div class="box">
+        <h2>Contact</h2>
+        <p>📞 WhatsApp : +227 84006662</p>
+        <p>📧 Email : sani165344@gmail.com</p>
+    </div>
+</section>
+
+<footer>
+    <p>© 2026 GNN SANI SAIDOU - Tous droits réservés</p>
+</footer>
+
+</body>
+</html>
+
